@@ -1,0 +1,20 @@
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.exe.config
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.exe
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.pdb
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csprojAssemblyReference.cache
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car_ShowRoom.Form1.resources
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car_ShowRoom.Properties.Resources.resources
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csproj.GenerateResource.cache
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csproj.CoreCompileInputs.cache
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.exe
+D:\ifbs\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.pdb
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csprojAssemblyReference.cache
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car_ShowRoom.Form1.resources
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car_ShowRoom.Properties.Resources.resources
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csproj.GenerateResource.cache
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.csproj.CoreCompileInputs.cache
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.exe
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\obj\Debug\Car ShowRoom.pdb
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.exe.config
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.exe
+D:\ifbs\3 курс\БД\Car ShowRoom\Car ShowRoom\bin\Debug\Car ShowRoom.pdb
